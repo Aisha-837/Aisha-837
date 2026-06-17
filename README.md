@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aisha-837" alt="aisha-837" /></a> </p>
 
-- 🔭 I’m currently working on **HTML projects**
+- 🔭 I’m currently working on **HTML, CSS & JS projects**
 
 - 🌱 I’m currently learning **Web & App Development**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aisha-837](https://github.com/Aisha-837)
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS,JS**
 
 - 📫 How to reach me **aishamaqsood211@gmail.com**
 
