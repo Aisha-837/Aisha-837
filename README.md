@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **HTML, CSS & JS projects**
 
-- 🌱 I’m currently learning **Web & App Development**
+- 🌱 I’m currently learning **Web & App Development & Social Media Marketing with Shopify**
 
 - 👯 I’m looking to collaborate on **Local Projects related to tech**
 
